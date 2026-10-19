@@ -1,0 +1,346 @@
+[
+  {
+    "id": "feminino-01",
+    "line": "feminino",
+    "category": "Feminino adulto",
+    "name": "Imagem 01",
+    "photo": "assets/catalogo/feminino-01.webp",
+    "page": 3
+  },
+  {
+    "id": "feminino-02",
+    "line": "feminino",
+    "category": "Feminino adulto",
+    "name": "Imagem 02",
+    "photo": "assets/catalogo/feminino-02.webp",
+    "page": 3
+  },
+  {
+    "id": "feminino-03",
+    "line": "feminino",
+    "category": "Feminino adulto",
+    "name": "Imagem 03",
+    "photo": "assets/catalogo/feminino-03.webp",
+    "page": 3
+  },
+  {
+    "id": "feminino-04",
+    "line": "feminino",
+    "category": "Feminino adulto",
+    "name": "Imagem 04",
+    "photo": "assets/catalogo/feminino-04.webp",
+    "page": 4
+  },
+  {
+    "id": "feminino-05",
+    "line": "feminino",
+    "category": "Feminino adulto",
+    "name": "Imagem 05",
+    "photo": "assets/catalogo/feminino-05.webp",
+    "page": 4
+  },
+  {
+    "id": "feminino-06",
+    "line": "feminino",
+    "category": "Feminino adulto",
+    "name": "Imagem 06",
+    "photo": "assets/catalogo/feminino-06.webp",
+    "page": 4
+  },
+  {
+    "id": "feminino-07",
+    "line": "feminino",
+    "category": "Feminino adulto",
+    "name": "Imagem 07",
+    "photo": "assets/catalogo/feminino-07.webp",
+    "page": 5
+  },
+  {
+    "id": "feminino-08",
+    "line": "feminino",
+    "category": "Feminino adulto",
+    "name": "Imagem 08",
+    "photo": "assets/catalogo/feminino-08.webp",
+    "page": 5
+  },
+  {
+    "id": "feminino-09",
+    "line": "feminino",
+    "category": "Feminino adulto",
+    "name": "Imagem 09",
+    "photo": "assets/catalogo/feminino-09.webp",
+    "page": 5
+  },
+  {
+    "id": "masculino-01",
+    "line": "masculino",
+    "category": "Masculino adulto",
+    "name": "Imagem 01",
+    "photo": "assets/catalogo/masculino-01.webp",
+    "page": 6
+  },
+  {
+    "id": "masculino-02",
+    "line": "masculino",
+    "category": "Masculino adulto",
+    "name": "Imagem 02",
+    "photo": "assets/catalogo/masculino-02.webp",
+    "page": 6
+  },
+  {
+    "id": "masculino-03",
+    "line": "masculino",
+    "category": "Masculino adulto",
+    "name": "Imagem 03",
+    "photo": "assets/catalogo/masculino-03.webp",
+    "page": 6
+  },
+  {
+    "id": "masculino-04",
+    "line": "masculino",
+    "category": "Masculino adulto",
+    "name": "Imagem 04",
+    "photo": "assets/catalogo/masculino-04.webp",
+    "page": 7
+  },
+  {
+    "id": "masculino-05",
+    "line": "masculino",
+    "category": "Masculino adulto",
+    "name": "Imagem 05",
+    "photo": "assets/catalogo/masculino-05.webp",
+    "page": 7
+  },
+  {
+    "id": "masculino-06",
+    "line": "masculino",
+    "category": "Masculino adulto",
+    "name": "Imagem 06",
+    "photo": "assets/catalogo/masculino-06.webp",
+    "page": 7
+  },
+  {
+    "id": "masculino-07",
+    "line": "masculino",
+    "category": "Masculino adulto",
+    "name": "Imagem 07",
+    "photo": "assets/catalogo/masculino-07.webp",
+    "page": 8
+  },
+  {
+    "id": "masculino-08",
+    "line": "masculino",
+    "category": "Masculino adulto",
+    "name": "Imagem 08",
+    "photo": "assets/catalogo/masculino-08.webp",
+    "page": 8
+  },
+  {
+    "id": "infantil-m-01",
+    "line": "infantil-m",
+    "category": "Infantil masculino",
+    "name": "Imagem 01",
+    "photo": "assets/catalogo/infantil-m-01.webp",
+    "page": 9
+  },
+  {
+    "id": "infantil-m-02",
+    "line": "infantil-m",
+    "category": "Infantil masculino",
+    "name": "Imagem 02",
+    "photo": "assets/catalogo/infantil-m-02.webp",
+    "page": 9
+  },
+  {
+    "id": "infantil-m-03",
+    "line": "infantil-m",
+    "category": "Infantil masculino",
+    "name": "Imagem 03",
+    "photo": "assets/catalogo/infantil-m-03.webp",
+    "page": 9
+  },
+  {
+    "id": "infantil-m-04",
+    "line": "infantil-m",
+    "category": "Infantil masculino",
+    "name": "Imagem 04",
+    "photo": "assets/catalogo/infantil-m-04.webp",
+    "page": 10
+  },
+  {
+    "id": "infantil-m-05",
+    "line": "infantil-m",
+    "category": "Infantil masculino",
+    "name": "Imagem 05",
+    "photo": "assets/catalogo/infantil-m-05.webp",
+    "page": 10
+  },
+  {
+    "id": "infantil-f-01",
+    "line": "infantil-f",
+    "category": "Infantil feminino",
+    "name": "Imagem 01",
+    "photo": "assets/catalogo/infantil-f-01.webp",
+    "page": 11
+  },
+  {
+    "id": "infantil-f-02",
+    "line": "infantil-f",
+    "category": "Infantil feminino",
+    "name": "Imagem 02",
+    "photo": "assets/catalogo/infantil-f-02.webp",
+    "page": 11
+  },
+  {
+    "id": "infantil-f-03",
+    "line": "infantil-f",
+    "category": "Infantil feminino",
+    "name": "Imagem 03",
+    "photo": "assets/catalogo/infantil-f-03.webp",
+    "page": 11
+  },
+  {
+    "id": "infantil-f-04",
+    "line": "infantil-f",
+    "category": "Infantil feminino",
+    "name": "Imagem 04",
+    "photo": "assets/catalogo/infantil-f-04.webp",
+    "page": 12
+  },
+  {
+    "id": "infantil-f-05",
+    "line": "infantil-f",
+    "category": "Infantil feminino",
+    "name": "Imagem 05",
+    "photo": "assets/catalogo/infantil-f-05.webp",
+    "page": 12
+  },
+  {
+    "id": "infantil-f-06",
+    "line": "infantil-f",
+    "category": "Infantil feminino",
+    "name": "Imagem 06",
+    "photo": "assets/catalogo/infantil-f-06.webp",
+    "page": 12
+  },
+  {
+    "id": "infantil-f-07",
+    "line": "infantil-f",
+    "category": "Infantil feminino",
+    "name": "Imagem 07",
+    "photo": "assets/catalogo/infantil-f-07.webp",
+    "page": 13
+  },
+  {
+    "id": "infantil-f-08",
+    "line": "infantil-f",
+    "category": "Infantil feminino",
+    "name": "Imagem 08",
+    "photo": "assets/catalogo/infantil-f-08.webp",
+    "page": 13
+  },
+  {
+    "id": "infantil-f-09",
+    "line": "infantil-f",
+    "category": "Infantil feminino",
+    "name": "Imagem 09",
+    "photo": "assets/catalogo/infantil-f-09.webp",
+    "page": 13
+  },
+  {
+    "id": "exclusivos-01",
+    "line": "exclusivos",
+    "category": "Modelos exclusivos",
+    "name": "Imagem 01",
+    "photo": "assets/catalogo/exclusivos-01.webp",
+    "page": 14
+  },
+  {
+    "id": "exclusivos-02",
+    "line": "exclusivos",
+    "category": "Modelos exclusivos",
+    "name": "Imagem 02",
+    "photo": "assets/catalogo/exclusivos-02.webp",
+    "page": 14
+  },
+  {
+    "id": "exclusivos-03",
+    "line": "exclusivos",
+    "category": "Modelos exclusivos",
+    "name": "Imagem 03",
+    "photo": "assets/catalogo/exclusivos-03.webp",
+    "page": 14
+  },
+  {
+    "id": "exclusivos-04",
+    "line": "exclusivos",
+    "category": "Modelos exclusivos",
+    "name": "Imagem 04",
+    "photo": "assets/catalogo/exclusivos-04.webp",
+    "page": 15
+  },
+  {
+    "id": "exclusivos-05",
+    "line": "exclusivos",
+    "category": "Modelos exclusivos",
+    "name": "Imagem 05",
+    "photo": "assets/catalogo/exclusivos-05.webp",
+    "page": 15
+  },
+  {
+    "id": "exclusivos-06",
+    "line": "exclusivos",
+    "category": "Modelos exclusivos",
+    "name": "Imagem 06",
+    "photo": "assets/catalogo/exclusivos-06.webp",
+    "page": 15
+  },
+  {
+    "id": "flip-flop-01",
+    "line": "flip-flop",
+    "category": "Flip flop",
+    "name": "Imagem 01",
+    "photo": "assets/catalogo/flip-flop-01.webp",
+    "page": 16
+  },
+  {
+    "id": "flip-flop-02",
+    "line": "flip-flop",
+    "category": "Flip flop",
+    "name": "Imagem 02",
+    "photo": "assets/catalogo/flip-flop-02.webp",
+    "page": 16
+  },
+  {
+    "id": "componentes-01",
+    "line": "componentes",
+    "category": "Cabedais e componentes",
+    "name": "Imagem 01",
+    "photo": "assets/catalogo/componentes-01.webp",
+    "page": 17
+  },
+  {
+    "id": "componentes-02",
+    "line": "componentes",
+    "category": "Cabedais e componentes",
+    "name": "Imagem 02",
+    "photo": "assets/catalogo/componentes-02.webp",
+    "page": 17
+  },
+  {
+    "id": "componentes-03",
+    "line": "componentes",
+    "category": "Cabedais e componentes",
+    "name": "Imagem 03",
+    "photo": "assets/catalogo/componentes-03.webp",
+    "page": 17
+  },
+  {
+    "id": "componentes-04",
+    "line": "componentes",
+    "category": "Cabedais e componentes",
+    "name": "Imagem 04",
+    "photo": "assets/catalogo/componentes-04.webp",
+    "page": 17
+  }
+]

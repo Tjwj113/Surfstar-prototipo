@@ -1,0 +1,48 @@
+<!doctype html><html lang="pt-BR"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex, nofollow, noarchive">
+  <meta name="theme-color" content="#b41419"><meta name="description" content="Catálogo de modelos e contatos comerciais Surf Star — protótipo de modernização para avaliação.">
+<title>Catálogo interativo | Surf Star</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Oswald:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/site.css"><link rel="stylesheet" href="assets/pages.css"></head><body class="inner-page">
+<div class="demo-ribbon" role="note">PROPOSTA DE MODERNIZAÇÃO <span aria-hidden="true">•</span> Protótipo independente, ainda não oficial</div>
+<header class="site-header"><div class="container nav">
+<a class="brand" href="index.html" aria-label="Voltar à página inicial"><img src="assets/logo-surfstar.png" alt="Surf Star"></a>
+<nav class="nav-links" id="navLinks" aria-label="Menu principal">
+<a href="index.html">Início</a><a href="catalogo.html">Catálogo online</a><a href="representantes.html">Representantes</a>
+<a href="cliente.html">Área do Cliente</a><a href="representantes.html#equipe">Contato</a>
+<a class="btn btn-primary" href="representantes.html">Falar com vendas</a>
+</nav>
+<button class="menu-toggle" id="menuToggle" aria-label="Abrir menu" aria-expanded="false" aria-controls="navLinks"><span></span><span></span><span></span></button>
+</div></header><main>
+<section class="inner-header catalog-hero"><div class="container inner-hero-grid">
+<div><span class="eyebrow">Surf Star • Coleção 2026</span><h1>Uma coleção.<br>Mil possibilidades.</h1>
+<p>Explore os modelos do catálogo, filtre por linha e encontre o estilo ideal para sua loja. Gostou de algum produto? Converse diretamente com a equipe comercial.</p>
+<div class="hero-actions"><a href="#produtos" class="btn btn-light">Explorar os modelos <span aria-hidden="true">↓</span></a><a href="representantes.html" class="btn btn-clear">Conhecer vendedores</a></div>
+<div class="inner-subline"><span>7 linhas para explorar</span><span>Fotos do catálogo enviado</span><span>Consulta direta</span></div></div>
+<div class="hero-products" aria-hidden="true"><img src="assets/feminino-floral.jpg" alt=""><img src="assets/masculino-tropical.jpg" alt=""><img src="assets/infantil-masculino.jpg" alt=""><img src="assets/cores-verao.jpg" alt=""></div>
+</div></section>
+<section class="catalog-main" id="produtos"><div class="container">
+<div class="catalog-intro"><div><span class="eyebrow">Encontre o seu próximo destaque</span><h2 class="title">Explore o catálogo</h2><p class="lead">Uma seleção navegável das imagens do catálogo 2026, organizada para facilitar a consulta.</p></div>
+<div class="catalog-stamp"><b id="catalogTotal">43</b> imagens de produtos e componentes</div></div>
+<div class="catalog-controls"><label class="search-field"><span aria-hidden="true">⌕</span><input type="search" id="productSearch" placeholder="Buscar modelo ou linha..." autocomplete="off" aria-label="Buscar produtos"></label>
+<select class="catalog-sort" id="catalogSort" aria-label="Ordenar produtos"><option value="catalogo">Ordem do catálogo</option><option value="az">Linhas de A a Z</option><option value="za">Linhas de Z a A</option></select></div>
+<div class="filter-list" id="filters" role="group" aria-label="Filtrar por linha"></div>
+<div class="results-line"><span id="resultsCount" aria-live="polite">Carregando modelos...</span><span>Selecione uma imagem para consultar</span></div>
+<div class="catalog-grid" id="catalogGrid" aria-label="Modelos do catálogo"></div>
+<div class="catalog-empty" id="catalogEmpty" hidden><h3>Não encontramos imagens</h3><p>Tente outra palavra ou selecione todas as linhas.</p><button type="button" class="btn btn-outline" id="resetFilters">Limpar filtros</button></div>
+<div class="catalog-notice"><span aria-hidden="true">ⓘ</span><div><strong>Sobre esta demonstração</strong><br>As imagens foram extraídas do PDF fornecido. As identificações “Imagem 01, 02...” servem apenas para navegar pelas fotos: <strong>não são referências oficiais de produto</strong>. Algumas imagens mostram mais de um item, composições ou materiais promocionais. Códigos, estoque, cores, valores, tamanhos e pedidos devem ser confirmados com a Surf Star.</div></div>
+<div class="center-action"><a class="btn btn-outline" href="assets/catalogo-surfstar-2026.pdf" target="_blank" rel="noopener">Ver catálogo em PDF (versão para web)</a></div>
+</div></section>
+<section class="reps-next"><div class="container reps-next-grid"><div><span class="eyebrow" style="color:#ff9ea2">Pronto para conversar?</span><h2 class="title">Gostou de um modelo?</h2><p class="lead">Nossa equipe comercial pode orientar sua consulta sobre produtos e condições de revenda.</p></div><a href="representantes.html" class="btn">Conhecer representantes <span aria-hidden="true">→</span></a></div></section>
+<dialog class="catalog-dialog" id="productDialog" aria-labelledby="dialogTitle">
+<div class="dialog-head"><div><span class="eyebrow">Consulta de produto</span><h2 id="dialogTitle">Escolha um representante</h2></div><button class="dialog-close" id="closeDialog" type="button" aria-label="Fechar janela">×</button></div>
+<p class="dialog-description">Selecione um contato abaixo para abrir o WhatsApp com uma mensagem referente à imagem escolhida. Nenhum pedido é enviado automaticamente. O representante confirmará os códigos e opções disponíveis.</p>
+<div class="dialog-preview"><img id="dialogImage" alt="Imagem selecionada"><div><strong id="dialogProductName">Modelo</strong><small id="dialogProductLine">Linha</small></div></div>
+<div class="dialog-reps" id="dialogReps"></div></dialog>
+<script src="assets/reps-data.js"></script><script src="assets/products-data.js"></script><script src="assets/catalogo.js"></script>
+</main><footer class="inner-footer"><div class="container inner-footer-bar">
+<img src="assets/logo-surfstar.png" alt="Surf Star"><div class="inner-footer-links"><a href="index.html">Início</a><a href="catalogo.html">Catálogo</a><a href="representantes.html">Representantes</a><a href="assets/catalogo-surfstar-2026.pdf" target="_blank" rel="noopener">PDF completo</a><a href="cliente.html">Área do Cliente</a></div>
+<span>Protótipo para avaliação • Não é o site oficial.</span></div></footer>
+<script src="assets/menu.js"></script></body></html>
